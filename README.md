@@ -19,6 +19,7 @@ Toda la documentación detallada está disponible en la **Wiki**, incluyendo:
 | Tema | Descripción |
 |------|-------------|
 | [📝 Acceso a campos con puntos en Mustache para OpenSearch (`ctx.results`)](https://github.com/blakpat/OpenSearch/wiki/Acceso-a-campos-con-puntos-en-Mustache-para-OpenSearch-(%60ctx.results%60)) | Cómo acceder correctamente a campos con puntos en Mustache dentro de scripts y plantillas de OpenSearch. |
+| [📝 Monitor Example: Monitor With Errors](https://github.com/blakpat/OpenSearch/wiki/Monitor-Example:-Monitor-With-Errors)) | cómo crear un Monitor con errores en OpenSearch y configurar una acción tipo Webhook para alertar vía un sistema externo (por ejemplo, Zendesk). |
 
 ---
 
